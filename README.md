@@ -14,7 +14,7 @@ List of props used for the talk:
 - Jackery Giant+ Premium 12,000 mAh Dual USB Portable Battery Charger & External Battery Pack ( http://a.co/gsWwuUM )
 - Breadboard ( http://a.co/h9zFSdp )
 
-Thanks for coming and don't forget to check out my new album VIV on Spotify ( https://smarturl.it/FLOTRON ) and my blog at https://florin.co .
+Thanks for coming and don't forget to check out my new album VIV on Spotify ( https://smarturl.it/FLOTRON ) and my blog at http://florin.co .
 
 
 --- Florin
